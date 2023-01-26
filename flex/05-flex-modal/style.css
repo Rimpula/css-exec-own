@@ -64,3 +64,37 @@ button.cancel {
   border: 1px solid #ddd;
   color: royalblue;
 }
+
+
+.header {
+
+font-size:18px;
+font-weight: bold;
+display: flex;
+margin-left: 50px;
+
+
+}
+
+.text {
+
+  
+
+}
+
+.close-button {
+
+  display: flex;
+  margin-left: auto;
+  
+
+
+
+}
+
+
+.all-but-button {
+
+
+  
+}
